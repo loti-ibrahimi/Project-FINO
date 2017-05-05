@@ -78,19 +78,19 @@ Find two similar in size cylinder containers, onebeing just big enough for the o
   width="300">
 ---
 
-    ### Finishing Touch!
-  <img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2034%2013.jpeg?raw=true"
-  width="300">
+    ### Finishing Touch: Open-minded/experiment and try different prototypes...
+    <img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2034%2013.jpeg?raw=true"
+    width="300">
   * The end result for this particular feeder, invlolved a light senser imbedded at the bottom of the inner cylinder (connected with an     exiting wire through gaps cut out in-line, bridging the two containers. 
   * You may simply leave a small opening at the top of the inner container(to enable you to provide a light source). 
   * LCD + Arduino w/shield may be attached to your Prototype design or left loose, but of course conneceted!
 ---
     ### Explore!
-This Project is open to your own imagination, create your feeder the way you want it to behave/look. 
+    This Project is open to your own imagination, create your feeder the way you want it to behave/look. 
 * The code is there.
 * Suggested Equipment is there.
 * Intelligence is also present! Sensors!
-Feel free to create your own final variation prototype & build it how you like using this programme...do share your results!
+  Feel free to create your own final variation prototype & build it how you like using this programme...do share your results!
 
 
 
