@@ -1,6 +1,6 @@
 # Project FINO
 ---
-![]()
+![](https://github.com/loti-ibrahimi/Project-FINO/blob/master/LogoSample_ByTailorBrands.jpg?raw=true)
 
 Automated bird feeder built using:
 * Arduino.
