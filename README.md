@@ -65,7 +65,7 @@ Find two similar in size cylinder containers, onebeing just big enough for the o
   width="300">
 ---
 
-   ### Setting up your Servo + Light Sensor.
+    ### Setting up your Servo + Light Sensor.
   * Create a Small hole (on the cap of the outer container) just big enough to barely fit the Servo Spinner in. (This provides support      for the Servo, and prevents it from collapsing into the inner container (**this must be secured with tape to ensure successful          rotations**). 
   <img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2033%2031.jpeg?raw=true"
   width="300">
@@ -77,7 +77,7 @@ Find two similar in size cylinder containers, onebeing just big enough for the o
   <img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2034%2000.jpeg?raw=true"
   width="300">
 ---
-   ### Finishing Touch (Open-minded/experiment & try different prototypes)
+    ### Finishing Touch (Open-minded/experiment & try different prototypes)
   <img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2034%2013.jpeg?raw=true"
   width="300">
   * The end result for this particular feeder, invlolved a light senser imbedded at the bottom of the inner cylinder (connected with an  exiting wire through gaps cut out in-line, bridging the two containers. 
