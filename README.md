@@ -37,10 +37,12 @@ Here is a snippet of the code, which may also be found in full in the GitHub Rep
 
 ## Steps On How to Make your very own Bird Feeder!
 <img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2026%2054.jpeg?raw=true" width="300">
-1. ### Configure Setup as shown in the diagrams: Connect SERVO - Pin D7, Light Sensor - Pin A0, LCD - Pin 12C.
-<img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2032%2008.jpeg?raw=true"
-width="300">
----
+
+1. ### Configure Setup as shown in the diagrams: 
+  *Connect SERVO - Pin D7, Light Sensor - Pin A0, LCD - Pin 12C.
+  <img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2032%2008.jpeg?raw=true"
+  width="300">
+  ---
 
 2. ### Download library for Grove - LCD rgb Backlight here:
    * https://github.com/Seeed-Studio/Grove_LCD_RGB_Backlight/archive/master.zip
