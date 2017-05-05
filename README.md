@@ -45,9 +45,10 @@ Here is a snippet of the code, which may also be found in full in the GitHub Rep
   ---
 
 2. ### Download library for Grove - LCD rgb Backlight here:
-   * https://github.com/Seeed-Studio/Grove_LCD_RGB_Backlight/archive/master.zip
-   Enter the following code into your Arduino Programme on your desktop: 
-   * https://github.com/loti-ibrahimi/Project-FINO/blob/master/Fino.ino
+    Enter the following code into your Arduino Programme on your desktop: 
+    * https://github.com/loti-ibrahimi/Project-FINO/blob/master/Fino.ino
+    Firstly, download your LCD Library:
+    * https://github.com/Seeed-Studio/Grove_LCD_RGB_Backlight/archive/master.zip
 ---   
 3. ### Gathering/Setting up Materials:  
   * Find two similar in size cylinder containers, onebeing just big enough for the other to fit inside.
