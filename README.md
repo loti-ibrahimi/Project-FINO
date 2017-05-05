@@ -49,7 +49,7 @@ Here is a snippet of the code, which may also be found in full in the GitHub Rep
    Enter the following code into your Arduino Programme on your desktop: 
    * https://github.com/loti-ibrahimi/Project-FINO/blob/master/Fino.ino
 ---   
-3. ### Gathering/Setting up Matterials:  
+3. ### Gathering/Setting up Materials:  
   * Find two similar in size cylinder containers, onebeing just big enough for the other to fit inside.
 <img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2032%2031.jpeg?raw=true"
 width="300">
@@ -65,7 +65,7 @@ width="300">
   width="300">
   ---
 4. ### Setting up your Servo + Light Sensor.
-  * Create a Small hole (on the cap of the outer container) just big enough to barely fit the Servo Spinner in. (This provides support for the Servo, and prevents it from collapsing into the inner container (**this must be secured with tape to ensure successful rotations**). 
+  * Create a Small hole (on the cap of the outer container) just big enough to barely fit the Servo Spinner in. (This provides support      for the Servo, and prevents it from collapsing into the inner container (**this must be secured with tape to ensure successful          rotations**). 
   <img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2033%2031.jpeg?raw=true"
   width="300">
   * I suggest you super glue the Servo attachment to the cap of the inner container (You can then simply connnect cap with cap, to    	   combine attachment with Servo.
@@ -76,6 +76,20 @@ width="300">
   <img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2034%2000.jpeg?raw=true"
   width="300">
   ---
+5. ### Finishing Touch (Open-minded/experiment & try different prototypes)
+  <img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2034%2013.jpeg?raw=true"
+  width="300">
+  * The end result for this particular feeder, invlolved a light senser imbedded at the bottom of the inner cylinder (connected with an  exiting wire through gaps cut out in-line, bridging the two containers. 
+  * You may simply leave a small opening at the top of the inner container(to enable you to provide a light source). 
+  * LCD + Arduino w/shield may be attached to your Prototype design or left loose, but of course conneceted!
+
+6. ### Explore!
+This Project is open to your own imagination, create your feeder the way you want it to behave/look. 
+* The code is there.
+* Suggested Equipment is there.
+* Intelligence is also present! Sensors!
+Feel free to create your own final variation prototype & build it how you like using this programme...do share your results!
+
 
 
 
