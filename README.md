@@ -1,5 +1,6 @@
 # Project FINO
 ---
+![]()
 
 Automated bird feeder built using:
 * Arduino.
