@@ -86,7 +86,6 @@ Find two similar in size cylinder containers, onebeing just big enough for the o
   * You may simply leave a small opening at the top of the inner container(to enable you to provide a light source). 
   * LCD + Arduino w/shield may be attached to your Prototype design or left loose, but of course conneceted!
 ---
-
     ### Explore!
 This Project is open to your own imagination, create your feeder the way you want it to behave/look. 
 * The code is there.
