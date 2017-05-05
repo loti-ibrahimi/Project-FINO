@@ -45,7 +45,7 @@ Here is a snippet of the code, which may also be found in full in the GitHub Rep
   ---
 
 2. ### Download library for Grove - LCD rgb Backlight here:
-    Firstly, download your LCD Library; then enter the following code into your Arduino Programme on your desktop: 
+Firstly, download your LCD Library. Then enter the following code into your Arduino Programme on your desktop: 
     * https://github.com/Seeed-Studio/Grove_LCD_RGB_Backlight/archive/master.zip
     * https://github.com/loti-ibrahimi/Project-FINO/blob/master/Fino.ino
 ---   
