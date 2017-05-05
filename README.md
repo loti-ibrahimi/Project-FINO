@@ -64,7 +64,7 @@ Here is a snippet of the code, which may also be found in full in the GitHub Rep
   <img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2033%2015.jpeg?raw=true"
   width="300">
 ---
-4. ### Setting up your Servo + Light Sensor.
+    ### Setting up your Servo + Light Sensor.
   * Create a Small hole (on the cap of the outer container) just big enough to barely fit the Servo Spinner in. (This provides support      for the Servo, and prevents it from collapsing into the inner container (**this must be secured with tape to ensure successful          rotations**). 
   <img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2033%2031.jpeg?raw=true"
   width="300">
@@ -76,7 +76,7 @@ Here is a snippet of the code, which may also be found in full in the GitHub Rep
   <img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2034%2000.jpeg?raw=true"
   width="300">
 ---
-5. ### Finishing Touch (Open-minded/experiment & try different prototypes)
+    ### Finishing Touch (Open-minded/experiment & try different prototypes)
   <img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2034%2013.jpeg?raw=true"
   width="300">
   * The end result for this particular feeder, invlolved a light senser imbedded at the bottom of the inner cylinder (connected with an  exiting wire through gaps cut out in-line, bridging the two containers. 
@@ -84,7 +84,7 @@ Here is a snippet of the code, which may also be found in full in the GitHub Rep
   * LCD + Arduino w/shield may be attached to your Prototype design or left loose, but of course conneceted!
 ---
 
-6. ### Explore!
+    ### Explore!
 This Project is open to your own imagination, create your feeder the way you want it to behave/look. 
 * The code is there.
 * Suggested Equipment is there.
