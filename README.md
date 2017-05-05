@@ -34,8 +34,8 @@ Here is a snippet of the code, which may also be found in full in the GitHub Rep
 
 ---
 
-## Want to learn more?
-Visit the FINO Website: https://loti-ibrahimi.github.io/Project-FINO/ 
+## Steps On How to Make your very own Bird Feeder!
+1. 
 
 
 
