@@ -63,7 +63,7 @@ Find two similar in size cylinder containers, onebeing just big enough for the o
   <img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2033%2015.jpeg?raw=true"
   width="300">
 
-    ### Setting up your Servo + Light Sensor.
+4. ### Setting up your Servo + Light Sensor.
   * Create a Small hole (on the cap of the outer container) just big enough to barely fit the Servo Spinner in. (This provides support      for the Servo, and prevents it from collapsing into the inner container (**this must be secured with tape to ensure successful rotations**). 
   <img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2033%2031.jpeg?raw=true"
   width="300">
