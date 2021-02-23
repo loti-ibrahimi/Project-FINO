@@ -39,16 +39,20 @@ Here is a snippet of the code, which may also be found in full in the GitHub Rep
 <img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2026%2054.jpeg?raw=true" width="300">
 
 1. ### Configure Setup as shown in the diagrams: 
+---
 Connect SERVO - Pin D7, Light Sensor - Pin A0, LCD - Pin 12C.
   <img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2032%2008.jpeg?raw=true"
   width="300">
+ 
 
 2. ### Download library for Grove - LCD rgb Backlight here:
+---
 Firstly, download your LCD Library. Then enter the following code into your Arduino Programme on your desktop: 
     - https://github.com/Seeed-Studio/Grove_LCD_RGB_Backlight/archive/master.zip
     - https://github.com/loti-ibrahimi/Project-FINO/blob/master/Fino.ino
     
 3. ### Gathering/Setting up Materials:  
+---
 Find two similar in size cylinder containers, onebeing just big enough for the other to fit inside.
   <img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2032%2031.jpeg?raw=true"
    width="300">
@@ -64,6 +68,7 @@ Find two similar in size cylinder containers, onebeing just big enough for the o
   width="300">
 
 4. ### Setting up your Servo + Light Sensor.
+---
   * Create a Small hole (on the cap of the outer container) just big enough to barely fit the Servo Spinner in. (This provides support      for the Servo, and prevents it from collapsing into the inner container (**this must be secured with tape to ensure successful rotations**). 
   <img src="https://github.com/loti-ibrahimi/Project-FINO/blob/master/FinoProgress/File%2005-05-2017,%2002%2033%2031.jpeg?raw=true"
   width="300">
